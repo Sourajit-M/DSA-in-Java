@@ -1,0 +1,329 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DynaProg_3",
+            "request": "launch",
+            "mainClass": "DynaProg_3",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Classroom",
+            "request": "launch",
+            "mainClass": "Classroom",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "DynaProg_2",
+            "request": "launch",
+            "mainClass": "DynaProg_2",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "ArrayL",
+            "request": "launch",
+            "mainClass": "ArrayL",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLQ",
+            "request": "launch",
+            "mainClass": "ArrayLQ",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BST",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "BST_2",
+            "request": "launch",
+            "mainClass": "BST_2",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Backtracking",
+            "request": "launch",
+            "mainClass": "Backtracking",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Backtracking_2",
+            "request": "launch",
+            "mainClass": "Backtracking_2",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeB",
+            "request": "launch",
+            "mainClass": "BinaryTreeB",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeB_2",
+            "request": "launch",
+            "mainClass": "BinaryTreeB_2",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "BitMani",
+            "request": "launch",
+            "mainClass": "BitMani",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "BuyandSellStocks",
+            "request": "launch",
+            "mainClass": "BuyandSellStocks",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "DivideAndC",
+            "request": "launch",
+            "mainClass": "DivideAndC",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "DoublyLL",
+            "request": "launch",
+            "mainClass": "DoublyLL",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "DynaProg_1",
+            "request": "launch",
+            "mainClass": "DynaProg_1",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "GraphsB",
+            "request": "launch",
+            "mainClass": "GraphsB",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "GraphsB_2",
+            "request": "launch",
+            "mainClass": "GraphsB_2",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "GraphsB_3",
+            "request": "launch",
+            "mainClass": "GraphsB_3",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "GraphsB_4",
+            "request": "launch",
+            "mainClass": "GraphsB_4",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "GraphsB_5",
+            "request": "launch",
+            "mainClass": "GraphsB_5",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "GraphsB_6",
+            "request": "launch",
+            "mainClass": "GraphsB_6",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "GreedyAlgo",
+            "request": "launch",
+            "mainClass": "GreedyAlgo",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "HashMapCode",
+            "request": "launch",
+            "mainClass": "HashMapCode",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "HashMapCode_2",
+            "request": "launch",
+            "mainClass": "HashMapCode_2",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "HeapsB",
+            "request": "launch",
+            "mainClass": "HeapsB",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "HeapsB_2",
+            "request": "launch",
+            "mainClass": "HeapsB_2",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasics",
+            "request": "launch",
+            "mainClass": "JavaBasics",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Kadane",
+            "request": "launch",
+            "mainClass": "Kadane",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlist",
+            "request": "launch",
+            "mainClass": "Linkedlist",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Linkedlist_2",
+            "request": "launch",
+            "mainClass": "Linkedlist_2",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Patter_2",
+            "request": "launch",
+            "mainClass": "Patter_2",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Patterb_1",
+            "request": "launch",
+            "mainClass": "Patterb_1",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_1",
+            "request": "launch",
+            "mainClass": "Pattern_1",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_2",
+            "request": "launch",
+            "mainClass": "Pattern_2",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_3",
+            "request": "launch",
+            "mainClass": "Pattern_3",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "QueueB",
+            "request": "launch",
+            "mainClass": "QueueB",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "RecursionBasics",
+            "request": "launch",
+            "mainClass": "RecursionBasics",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "SpiralMatrix",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "StackB",
+            "request": "launch",
+            "mainClass": "StackB",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "TrappedRainwater",
+            "request": "launch",
+            "mainClass": "TrappedRainwater",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "TriesB",
+            "request": "launch",
+            "mainClass": "TriesB",
+            "projectName": "Question Programs_f952f596"
+        },
+        {
+            "type": "java",
+            "name": "fibonacciWR",
+            "request": "launch",
+            "mainClass": "fibonacciWR",
+            "projectName": "Question Programs_f952f596"
+        }
+    ]
+}
